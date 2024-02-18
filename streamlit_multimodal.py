@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 import google.generativeai as genai
 
-st.set_page_config(page_title="Generative Multimodal AI Dashboard with Gemini Pro and Streamlit", page_icon="♊")
+st.set_page_config(page_title="Generative Multimodal AI Dashboard with Gemini Pro and Streamlit", page_icon="")
 
 st.write("Welcome to Generative Multimodal AI Dashboard with Gemini Pro and Streamlit. You can use it by providing your Google API Key")
 
